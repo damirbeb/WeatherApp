@@ -43,7 +43,6 @@ A minimalist, accurate weather application built with Flutter using MVVM archite
 | No Ads          | ✅       | ❌     | ❌           | ❌               |
 | Fast Performance| ✅       | ✅     | ❌           | ❌               |
 | Accurate Data   | ✅       | ✅     | ✅           | ✅               |
-| Light/Dark Mode | ✅       | ❌     | ❌           | ❌               |
 
 ## Installation 🛠️
 1. Clone this repository `git clone https://github.com/damirbeb/WeatherApp.git`
