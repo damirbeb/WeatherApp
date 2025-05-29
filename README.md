@@ -5,7 +5,9 @@
 
 A minimalist, accurate weather application built with Flutter using MVVM architecture and OpenWeatherMap API.
 
-![App Screenshot](assets/screenshots/app.png)
+![App Screenshot](assets/screenshots/app.jpg)
+![App Screenshot](assets/screenshots/map.jpg)
+![App Screenshot](assets/screenshots/loading.jpg)
 
 ## Key Features ✨
 - Real-time weather data from OpenWeatherMap API
