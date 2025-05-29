@@ -1,8 +1,7 @@
-# WeatherCast 🌤️⛅🌦️
+# WeatherApp 🌤️⛅🌦️
 
-[![Flutter](https://img.shields.io/badge/Flutter-3.13.0-blue.svg)](https://flutter.dev)
-[![Dart](https://img.shields.io/badge/Dart-3.1.0-blue.svg)](https://dart.dev)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![Flutter](https://img.shields.io/badge/Flutter-2.10.0-blue.svg)](https://flutter.dev)
+[![Dart](https://img.shields.io/badge/Dart-2.16.2-blue.svg)](https://dart.dev)
 
 A minimalist, accurate weather application built with Flutter using MVVM architecture and OpenWeatherMap API.
 
@@ -18,7 +17,7 @@ A minimalist, accurate weather application built with Flutter using MVVM archite
 - Light/Dark mode support
 
 ## Technology Stack ⚙️
-- **Framework**: Flutter 3.13.0
+- **Framework**: Flutter 2.10.5
 - **Architecture**: MVVM Pattern
     - **Model**: WeatherData from API
     - **View**: UI Widgets
@@ -42,5 +41,6 @@ A minimalist, accurate weather application built with Flutter using MVVM archite
 | Light/Dark Mode | ✅       | ❌     | ❌           | ❌               |
 
 ## Installation 🛠️
-1. flutter pub get
-2. flutter run
+1. Clone this repository `git clone https://github.com/damirbeb/WeatherApp.git`
+2. Run `flutter pub get`
+3. Run `flutter run`
